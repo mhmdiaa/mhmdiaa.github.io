@@ -23,4 +23,6 @@ Spotify had a contact page where a user can report problems or send suggestions.
 After some minutes I got an email from XSS hunter saying that my payload fired! It fired in a Salesforce domain that Spotify used as a support platform. So I reported to Spotify’s team via bugcrowd and asked them to inform Salesforce about it. They replied that the XSS was on their own custom Salesforce integration and has nothing to do with Salesforce and they rewarded me with $750.
 
 
+Note: When testing for blind XSS, always use polyglots. You don't know where your payload will land.
+
 I’d like to thank Spotify for the reward and for their cooperation, thank Matthew for the awesome xss hunter and thank bugcrowd for being such a great platform that got many companies into the world of crowd-sourced security.
