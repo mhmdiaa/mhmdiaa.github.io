@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I code, participiate in bug bounty programs, play chess and do many more...
+Mohammed Diaa's personal blog
 
 ## Contact me
 
